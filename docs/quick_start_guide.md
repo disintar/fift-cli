@@ -1,6 +1,6 @@
 # toncli Quick start guide
 
-This quide contains simple steps how-to deploy example smart contract to TON.
+This guide contains simple steps how-to deploy example smart contract to TON.
 
 ## 1. Install ton / toncli
 
